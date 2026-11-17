@@ -14,7 +14,7 @@ export const siteConfig = {
     height: 46
   },
   locale: "en_US",
-  defaultOgImage: "/images/branding/og-default.jpg",
+  defaultOgImage: "https://assets.trendvesture.com/images/og-default.webp",
   author: "TrendVesture Editorial Team",
   contact: {
     email: "editorial@trendvesture.com",

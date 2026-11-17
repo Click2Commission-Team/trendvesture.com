@@ -5,7 +5,7 @@ export const authors = [
     name: "Tanisha",
     designation: "Fashion Editor & Senior Writer",
     bio: "Tanisha is a fashion editor and stylist specializing in women's couture, seasonal runway forecasts, editorial beauty rituals, and personal style curation. With over a decade tracking international fashion weeks and consulting for premier publications, her writing blends rigorous fashion criticism with accessible, everyday wardrobe inspiration.",
-    avatar: "/images/authors/tanisha.jpg",
+    avatar: "https://assets.trendvesture.com/images/tanisha.webp",
     email: "tanisha@trendvesture.com",
     primaryCategories: ["Women's Fashion", "Beauty & Makeup", "Fashion Trends", "Accessories & Jewellery"],
     social: {
@@ -21,7 +21,7 @@ export const authors = [
     name: "Shivam",
     designation: "Fashion Writer & Style Contributor",
     bio: "Shivam is a menswear contributor, footwear enthusiast, and cultural lifestyle commentator. His editorial work delves into modern street culture, precision tailoring, sneaker artistry, sustainable fashion practices, and practical shopping guides designed to build enduring, high-utility capsule wardrobes.",
-    avatar: "/images/authors/shivam.jpg",
+    avatar: "https://assets.trendvesture.com/images/shivam.webp",
     email: "shivam@trendvesture.com",
     primaryCategories: ["Men's Fashion", "Footwear", "Fashion Lifestyle", "Shopping & Style Guides"],
     social: {

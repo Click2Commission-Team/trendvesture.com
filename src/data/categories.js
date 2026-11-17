@@ -3,7 +3,7 @@ export const categories = [
     name: "Fashion Trends",
     slug: "fashion-trends",
     description: "Explore the vanguard of fashion: runway forecasts, emerging seasonal palettes, street-level aesthetics, and the transformative trends redefining global style.",
-    image: "/images/categories/fashion-trends.webp",
+    image: "https://assets.trendvesture.com/images/fashion-trends.webp",
     seoTitle: "Fashion Trends & Runway Forecasts | TrendVesture",
     seoDescription: "Discover latest fashion trends, seasonal forecasts, celebrity inspirations, and runway reports curated by TrendVesture fashion editors.",
     subcategories: [
@@ -21,7 +21,7 @@ export const categories = [
     name: "Women's Fashion",
     slug: "womens-fashion",
     description: "Sophisticated women's apparel, from tailored workwear and occasion dresses to effortless casual silhouettes and heritage ethnic fashion.",
-    image: "/images/categories/womens-fashion.webp",
+    image: "https://assets.trendvesture.com/images/womens-fashion.webp",
     seoTitle: "Women's Fashion & Editorial Styling | TrendVesture",
     seoDescription: "Browse modern women's fashion, styling guides, dresses, ethnic wear, workwear, and evening apparel on TrendVesture.",
     subcategories: [
@@ -39,7 +39,7 @@ export const categories = [
     name: "Men's Fashion",
     slug: "mens-fashion",
     description: "A refined vision of men's sartorial style, encompassing contemporary streetwear, bespoke formalwear, modern tailoring, and essential grooming.",
-    image: "/images/categories/mens-fashion.webp",
+    image: "https://assets.trendvesture.com/images/mens-fashion.webp",
     seoTitle: "Men's Fashion, Tailoring & Grooming | TrendVesture",
     seoDescription: "Explore men's style guides, classic tailoring, streetwear culture, grooming standards, and smart casual essentials on TrendVesture.",
     subcategories: [
@@ -57,7 +57,7 @@ export const categories = [
     name: "Beauty & Makeup",
     slug: "beauty-makeup",
     description: "Curated skincare rituals, editorial makeup techniques, haircare wellness, and fragrance notes designed to elevate your aesthetic.",
-    image: "/images/categories/beauty-makeup.webp",
+    image: "https://assets.trendvesture.com/images/beauty-makeup.webp",
     seoTitle: "Beauty, Makeup Trends & Skincare Rituals | TrendVesture",
     seoDescription: "Expert beauty advice, skincare science, makeup tutorials, haircare regimens, and fragrance guides on TrendVesture.",
     subcategories: [
@@ -75,7 +75,7 @@ export const categories = [
     name: "Accessories & Jewellery",
     slug: "accessories-jewellery",
     description: "The transformative power of details: iconic luxury handbags, horological masterpieces, fine jewellery, and artisanal leather goods.",
-    image: "/images/categories/accessories-jewellery.webp",
+    image: "https://assets.trendvesture.com/images/accessories-jewellery.webp",
     seoTitle: "Luxury Accessories & Fine Jewellery | TrendVesture",
     seoDescription: "Discover timeless handbags, luxury watches, fine jewellery styling, and statement accessories curated by TrendVesture.",
     subcategories: [
@@ -93,7 +93,7 @@ export const categories = [
     name: "Footwear",
     slug: "footwear",
     description: "From coveted sneaker drops to handcrafted Italian boots and statement stilettos, the definitive guide to footwear artistry.",
-    image: "/images/categories/footwear.webp",
+    image: "https://assets.trendvesture.com/images/footwear.webp",
     seoTitle: "Footwear Trends, Designer Shoes & Sneakers | TrendVesture",
     seoDescription: "Step into footwear trends, sneaker culture, luxury boots, heels, and practical everyday shoes on TrendVesture.",
     subcategories: [
@@ -111,7 +111,7 @@ export const categories = [
     name: "Fashion Lifestyle",
     slug: "fashion-lifestyle",
     description: "Exploring the intersection of personal aesthetic, mindful consumerism, sustainable fashion culture, and travel inspirations.",
-    image: "/images/categories/fashion-lifestyle.webp",
+    image: "https://assets.trendvesture.com/images/fashion-lifestyle.webp",
     seoTitle: "Fashion Lifestyle, Sustainable Style & Culture | TrendVesture",
     seoDescription: "Immerse in sustainable fashion practices, minimalist wardrobe curation, fashion travel packing, and influencer culture.",
     subcategories: [
@@ -129,7 +129,7 @@ export const categories = [
     name: "Shopping & Style Guides",
     slug: "shopping-style-guides",
     description: "Smart purchasing advice, capsule wardrobe blueprints, budget-friendly high-street edits, and digital shopping masterclasses.",
-    image: "/images/categories/shopping-style-guides.webp",
+    image: "https://assets.trendvesture.com/images/shopping-style-guides.webp",
     seoTitle: "Shopping Guides & Capsule Wardrobe Advice | TrendVesture",
     seoDescription: "Practical styling guides, smart shopping advice, budget fashion finds, and capsule wardrobe building strategies.",
     subcategories: [

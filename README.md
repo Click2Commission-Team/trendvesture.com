@@ -180,7 +180,7 @@ tags:
   - "tailoring"
   - "outerwear"
   - "heritage fashion"
-heroImage: "/images/articles/my-new-post.webp"
+heroImage: "https://assets.trendvesture.com/images/my-new-post.webp"
 heroImageAlt: "Model wearing structured tweed overcoat"
 featured: true
 draft: false
@@ -206,20 +206,16 @@ Your markdown or MDX content begins here...
 3. Save the file. Hot-reload will instantly reflect the changes in development.
 
 ### How to Add Images
-1. Save your WebP or JPG image into the appropriate subfolder inside `public/images/`:
-   - Articles: `public/images/articles/`
-   - Categories: `public/images/categories/`
-   - Authors: `public/images/authors/`
-   - Branding: `public/images/branding/`
-2. Reference the image in your MDX frontmatter using its absolute public path:
+1. Upload your WebP image to `https://assets.trendvesture.com/images/<filename>.webp`
+2. Reference the image in your MDX frontmatter using its URL:
    ```yaml
-   heroImage: "/images/articles/my-image.webp"
+   heroImage: "https://assets.trendvesture.com/images/my-image.webp"
    ```
 
 ### How to Replace Author Images
-The author images are configured with fixed, modular file paths so you can replace them anytime without changing any code:
-- **Tanisha's Image**: Replace `public/images/authors/tanisha.jpg`
-- **Shivam's Image**: Replace `public/images/authors/shivam.jpg`
+The author images are configured in `src/data/authors.js`:
+- **Tanisha's Image**: `https://assets.trendvesture.com/images/tanisha.webp`
+- **Shivam's Image**: `https://assets.trendvesture.com/images/shivam.webp`
 
 ### How to Add a New Category or Subcategory
 1. Open `src/data/categories.js`.
@@ -229,7 +225,7 @@ The author images are configured with fixed, modular file paths so you can repla
   name: "Vintage & Archival",
   slug: "vintage-archival",
   description: "Curated historical fashion archives and retro couture pieces.",
-  image: "/images/categories/vintage-archival.webp",
+  image: "https://assets.trendvesture.com/images/vintage-archival.webp",
   seoTitle: "Vintage & Archival Fashion | TrendVesture",
   seoDescription: "Explore vintage fashion history and archival luxury collections.",
   subcategories: [
